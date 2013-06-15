@@ -1,0 +1,131 @@
+<rss>
+	<name>พล.ต.อ.พงศพัศ พงษ์เจริญ</name>
+	<campaign>
+		<item>
+			รถเมล์ฟรี-เรือโดยสารฟรี
+			<detail>ออกทุกๆ 5 นาที,เตรียมสร้างรถรางสมัยใหม่ 2 สาย รอบเกาะรัตนโกสินทร์โดยไม่เสียค่าโดยสาร</detail>
+		</item>
+		<item>
+			จัดระเบียบการเดินรถใหม่
+			<detail>จัดรถเมล์ประมาณ 500-1,000 คัน ไปรับส่งประชาชนถึงหน้าหมู่บ้าน,เช่าพื้นที่สำหรับแท็กซี่ ให้จอดรอรับผู้โดยสาร</detail>
+		</item>
+		<item>
+			เฝ้าระวังบ้านทุกหลัง
+			<detail>ตลอด  365 วัน เต็ม</detail>
+		</item>
+		<item>
+			แก้ปัญหายาเสพติด
+			<detail>ร่วมมือกับรัฐบาลอย่างเต็มที่</detail>
+		</item>
+		<item>
+			เอื้อคนพิการ
+			<detail>สร้างทางเท้า อำนวยความสะดวก,ป้ายรถประจำทางให้เสมอกับทางขึ้นรถโดยสาร</detail>
+		</item>
+		<item>
+			ป้ายรถเมลล์สว่างทุกป้าย
+			<detail>พร้อมห้องน้ำสาธารณะ พร้อมกับเพิ่มจุดสว่างที่ป้ายให้มากกว่าเดิม</detail>
+		</item>
+		<item>
+			สายไฟลงดิน
+			<detail>ลดปัญหาการเกิดอุบัติเหตุประเภทไฟดูด,โดยประสานความร่วมมือการไฟฟ้านครหลวง</detail>
+		</item>
+		<item>
+			ติด CCTV.
+			<detail>ทุกมุมอันตราย ทุกจุดเสี่ยงในกรุงเทพฯ โดยไม่จำกัดจำนวน</detail>
+		</item>
+		<item>
+			ยกระดับศูนย์อนามัยชุมชน
+			<detail>ให้เป็นโรงพยาบาลชุมชน,ดูแลรักษาพยาบาลให้ผู้ที่อายุเกิน 60 ปี ซึ่งจะมีแพทย์เคลื่อนที่ตามไปรักษาถึงที่บ้าน</detail>
+		</item>
+		<item>
+			สาธารณสุขเพื่อผู้สูงอายุ
+		</item>
+		<item>
+			เอื้อคนจนเดินทางเท้าสะดวกปลอดภัย
+			<detail>สร้างสะพานทางเดินจากสะพานพระราม 8 ไปถึงสะพานสาทร</detail>
+		</item>
+		<item>
+			จัดเก็บขยะทั้งวัน
+			<detail>มีกระบวนการคัดแยกขยะเสร็จสิ้นตั้งแต่พื้นที่ชุมชน</detail>
+		</item>
+		<item>
+			จัดระเบียบพ่อค้าแม่ค้าบนทางเท้าใหม่
+		</item>
+		<item>
+			กรุงเทพฯ เมืองผู้นำประชาคมอาเซียน
+		</item>
+		<item>
+			ทางเดินริมแม้น้ำเจ้าพระยา
+			<detail>พร้อมกับทางจักรยาน เพื่อเป็นทางวิ่งสำหรับการออกกำลังกาย</detail>
+		</item>
+		<item>
+			ปลดหนี้นอกระบบ
+			<detail>สร้างความเป็นธรรมในกระบวนการกู้หนี้ยืมสิน,แหล่งเงินทุนดอกเบี้ยต่ำ,สร้างศูนย์โอทอป,ปรับปรุงย่านการค้าจตุจักรให้เป็น SMEs Center</detail>
+		</item>
+		<item>
+		
+			<detail></detail>
+		</item>
+		<item>
+		
+			<detail></detail>
+		</item>
+		<item>
+		
+			<detail></detail>
+		</item>
+		<item>
+		
+			<detail></detail>
+		</item>
+		<item>
+		
+			<detail></detail>
+		</item>
+		<item>
+		
+			<detail></detail>
+		</item>
+		<item>
+		
+			<detail></detail>
+		</item>
+		<item>
+		
+			<detail></detail>
+		</item>
+		<item>
+		
+			<detail></detail>
+		</item>
+		<item>
+		
+			<detail></detail>
+		</item>
+		<item>
+		
+			<detail></detail>
+		</item>
+		<item>
+		
+			<detail></detail>
+		</item>
+		<item>
+		
+			<detail></detail>
+		</item>
+	</campaign>
+	<reference>
+		<item>http://www.pongsapatbkk.com/</item>
+		<item>http://www.facebook.com/Pongsapatbkk</item>
+		<item>http://news.mthai.com/headline-news/214096.html</item>
+		<item>http://www.thairath.co.th/people/view/pol/3839</item>
+		<item>http://news.sanook.com/politic/bkkelection2013/candidateprofile/9/</item>
+		<item>http://hilight.kapook.com/view/81202</item>
+		<item>http://th.wikipedia.org/wiki/%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B8%9E%E0%B8%B1%E0%B8%A8_%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D</item>
+		<item>http://news.mthai.com/%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-%E0%B8%81%E0%B8%97%E0%B8%A1-2556/%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A7%E0%B9%88%E0%B8%B2-%E0%B8%81%E0%B8%97%E0%B8%A1-2556/214757.html</item>
+	</reference>
+	<detail>
+		<image>img/ddfa73e117222c4af1d5ccec409b0d0a.jpeg</image>
+	</detail>
+</rss>

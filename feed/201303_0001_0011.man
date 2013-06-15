@@ -1,0 +1,86 @@
+<rss>
+	<name>พล.ต.อ.เสรีพิศุทธ์ เตมียาเวส</name>
+	<campaign>
+		<item>
+			กรุงเทพ ต้องมีความปลอดภัย
+			<detail>เดินทางสะดวก น่าอยู่อาศัย น่าท่องเที่ยว</detail>
+		</item>
+		<item>
+			กรุงเทพฯ สะอาด
+			<detail>เป็นระเบียบ เคารพกฎหมาย ปราศจากอิทธิพล</detail>
+		</item>
+		<item>
+			คิดนอกกรอบ รอบคอบ
+			<detail>กล้าทำ ขจัดคอร์รัปชั่น ตรวจสอบได้</detail>
+		</item>
+		<item>
+			พัฒนาอาชีพ
+			<detail>เพิ่มรายได้ สวัสดิการดี มีอนาคต</detail>
+		</item>
+		<item>
+			เรียนเด่น เล่นดี
+			<detail>มีพลานามัย ปลอดภัยโรค</detail>
+		</item>
+		<item>
+			ไม่ทะเลาะไม่ขัดแย้ง
+			<detail>ไม่แย่งผลงานใคร ไม่ฝักใฝ่พรรคการเมือง</detail>
+		</item>
+		<item>
+			ดื่มน้ำพิพัฒน์สัตยา
+			<detail>กล้าคิด กล้าทำ โปร่งใส ไม่โกงกิน</detail>
+		</item>
+		<item>
+			คุณภาพชีวิตที่ดีขึ้น
+			<detail>กรุงเทพฯ ต้องเป็นศูนย์ประชาคมอาเซียน</detail>
+		</item>
+		<item>
+			บริการรถเมล์แอร์ฟรี
+		</item>
+		<item>
+			สร้างรถไฟลอยฟ้า-ใต้ดิน
+			<detail>ประสานงานรัฐบาล</detail>
+		</item>
+		<item>
+			สวนไปถึงบ้าน
+		</item>
+		<item>
+			ตั้งโรงทานทุกวัด
+		</item>
+		<item>
+			ติดตั้งกล้องวงจรปิดทั่วทุกพื้นที่
+		</item>
+		<item>
+			จัดระเบียบการค้าบนทางเท้า
+		</item>
+		<item>
+			สายไฟฟ้าลงใต้ดิน
+		</item>
+		<item>
+			บริหารจัดการขยะ
+			<detail>เปลี่ยนขยะให้เป็นเงิน แปลงขยะให้เป็นพลังงาน</detail>
+		</item>
+		<item>
+			ขจัดน้ำเน่าในคู-คลอง
+		</item>
+		<item>
+			สร้างที่อยู่อาศัยให้ผู้มีรายได้น้อย
+		</item>
+		<item>
+			โรงเรียน 2 ภาษา
+		</item>
+		<item>
+			ให้บริการเครื่องมือแพทย์ที่ทันสมัย
+		</item>
+	</campaign>
+	<reference>
+		<item>http://www.sereepisuth.com/</item>
+		<item>http://www.facebook.com/sereepisutht</item>
+		<item>http://twitter.com/sereepisuth</item>
+		<item>http://news.mthai.com/%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-%E0%B8%81%E0%B8%97%E0%B8%A1-2556/%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A7%E0%B9%88%E0%B8%B2-%E0%B8%81%E0%B8%97%E0%B8%A1-2556/214766.html</item>
+		<item>http://hilight.kapook.com/view/81192</item>
+		<item>http://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B5%E0%B8%9E%E0%B8%B4%E0%B8%A8%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B9%8C_%E0%B9%80%E0%B8%95%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B8%B2%E0%B9%80%E0%B8%A7%E0%B8%AA></item>
+	</reference>
+	<detail>
+		<image>img/184745_333107700128218_1458013680_n.jpg</image>
+	</detail>
+</rss>

@@ -1,0 +1,27 @@
+<rss>
+	<name>นาย ศุภชัย เขษมวงศ์</name>
+	<campaign>
+		<item>
+			แก้ปัญหา 3 น้ำอย่างยั่งยืน
+			<detail>น้ำท่วม,น้ำแล้ง,น้ำใต้ดิน</detail>
+		</item>
+		<item>
+			แก้ไขปัญหาการจราจร
+		</item>
+		<item>
+			สร้างงานสร้างอาชีพ
+			<detail>สร้างชื่อเสียงให้กับคนไทยและประเทศไทย</detail>
+		</item>
+	</campaign>
+	<reference>
+		<item>http://news.mthai.com/%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-%E0%B8%81%E0%B8%97%E0%B8%A1-2556/%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A7%E0%B9%88%E0%B8%B2-%E0%B8%81%E0%B8%97%E0%B8%A1-2556/215308.html</item>
+		<item>http://news.sanook.com/politic/bkkelection2013/candidateprofile/22</item>
+		<item>http://www.prbangkok.com/%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87/106-%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%9C%E0%B8%B9%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3/26851-n22</item>
+		<item>http://www.xn--12c8bnw1a0e3bxhh.com/node/80/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%B4-%E0%B8%A2%E0%B9%88%E0%B8%AD-%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B9%80%E0%B8%82%E0%B8%A9%E0%B8%A1%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C</item>
+		<item>http://news.th.msn.com/%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3?page=23</item>
+		<item>http://www.thairath.co.th/election/bkk2013/candidate/N22</item>
+	</reference>
+	<detail>
+		<image>img/22.jpg</image>
+	</detail>
+</rss>

@@ -1,0 +1,70 @@
+<rss>
+	<name>นาย สุหฤท สยามวาลา</name>
+	<campaign>
+		<item>
+			ทุกชีวิตต้องปลอดภัยบนทางเท้า
+			<detail>จัดการทางเท้าให้ดีกว่าเดิม</detail>
+		</item>
+		<item>
+			เริ่มแก้ปัญหาจราจรจากศูนย์
+			<detail>ดูแลระเบียบจราจรร่วมกัน</detail>
+		</item>
+		<item>
+			ขยะแลกสวนสาธารณะ 
+			<detail>ขยะ 1 หมื่นตันช่วยกันเปลี่ยนให้เป็นเงินแล้วเอามาสร้างสวนกัน 3 ถุง เขียว เหลือง แดง</detail>
+		</item>
+		<item>
+			50 เขต 50 เสน่ห์
+			<detail>ใช้เสน่ห์ของคนในเขตสร้างชุมชนในฝันให้เด็ก ๆ เข้าใจชุมชนที่ตัวเองเกิดมา</detail>
+		</item>	
+		<item>
+			ดูแลครูด้วยหัวใจแทนงบประมาณ
+			<detail>ครูดีเด็กดีสร้างอนาคต พร้อมโรงเรียนทางเลือก</detail>
+		</item>	
+		<item>
+			โฆษณาสีเขียว
+			<detail>เปลี่ยนโจทย์ให้นักทำโฆษณา อยากทำโฆษณาต้องกล้ามอบความเขียวคืนให้กรุงเทพฯ</detail>
+		</item>	
+		<item>
+			จักรยานไม่ใช่ลูกเมียน้อย
+			<detail>ทำไมผู้ใช้จักรยานในเมืองใหญ่ทั่วโลกไม่ต้องเสี่ยงตายเท่าในกรุงเทพฯ</detail>
+		</item>	
+		<item>
+			เครือข่ายทางสาธารณะจะต้องเริ่มจากหน้าบ้าน
+			<detail>เราจะประกาศแผนอย่างละเอียดใน 1 ปี เราต้องดูแลตั้งแต่หน้าบ้าน</detail>
+		</item>	
+		<item>
+			ยกระดับหน่วยกู้ภัยกรุงเทพฯ
+			<detail>ให้ทัดเทียมนานาชาติ เขาจะเป็นผู้ช่วยเหลือที่ไว้ใจได้ที่สุดยามฉุกเฉิน</detail>
+		</item>	
+		<item>
+			เมืองที่ผู้หญิงอยู่อย่างมีความสุข
+			<detail>เมื่อผู้หญิงมีความสุข ทุกคนในบ้านก็มีความสุข แปลว่าเขารู้สึกปลอดภัย สร้างโอกาสที่จะก้าวหน้า ส่งเสริมในสิ่งที่ชอบ</detail>
+		</item>	
+		<item>
+			สร้างสมดุลชีวิตคนกรุงเทพฯ
+			<detail>เมืองต้องการศิลปะทั่วทุกหัวระแหง เมืองที่มีพื้นที่ออกกำลังกาย สนับสนุนชีวิตสองด้าน</detail>
+		</item>	
+		<item>
+			Bangkok-Emo-Meter
+			<detail>กรุงเทพฯ เมืองแห่งความเชื่อมโยงแอพพลิเคชั่นเดียวสำหรับการใช้ชีวิตในกรุงเทพฯ ได้ข้อมูลทันใจทุกเรื่อง</detail>
+		</item>		
+	</campaign>
+	<reference>
+		<item>http://www.suharit.com</item>
+		<item>http://www.facebook.com/suharit.surprise</item>
+		<item>http://news.mthai.com/%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-%E0%B8%81%E0%B8%97%E0%B8%A1-2556/%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A7%E0%B9%88%E0%B8%B2-%E0%B8%81%E0%B8%97%E0%B8%A1-2556/214864.html</item>
+		<item>http://news.sanook.com/politic/bkkelection2013/candidateprofile/17</item>
+		<item>http://news.tlcthai.com/news-interest/90008.html</item>
+		<item>http://www.komchadluek.net/detail/20120828/138698/%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%943%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%81%E0%B8%97%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B8%81%E0%B8%98%E0%B8%87%E0%B8%A3%E0%B8%9A%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B9%80%E0%B8%81%E0%B9%89%E0%B8%B2%E0%B8%AD%E0%B8%B5%E0%B9%89%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%AF%E0%B8%81%E0%B8%97%E0%B8%A1..html#.URDfIB1thq8</item>
+		<item>http://www.siam-vip.com/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%84%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%87/%E0%B8%AA%E0%B8%B8%E0%B8%AB%E0%B8%A4%E0%B8%97-%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B8%A7%E0%B8%B2%E0%B8%A5%E0%B8%B2-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%B4.html</item>
+		<item>http://hilight.kapook.com/view/75320</item>
+		<item>http://hilight.kapook.com/view/81188</item>
+		<item>http://hilight.kapook.com/view/81192</item>
+		<item>http://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%B8%E0%B8%AB%E0%B8%A4%E0%B8%97_%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B8%A7%E0%B8%B2%E0%B8%A5%E0%B8%B2</item>
+		<item>http://www.manager.co.th/Qol/ViewNews.aspx?NewsID=9560000008247</item>
+	</reference>
+	<detail>
+		<image>img/602297_10151096571126370_752942673_n.jpg</image>
+	</detail>
+</rss>

@@ -1,0 +1,52 @@
+<rss>
+	<name>นาย วรัญชัย โชคชนะ</name>
+	<campaign>
+		<item>
+			"กรุงเทพธนบุรีมหานคร"
+			<detail>เปลี่ยนชื่อ “กรุงเทพมหานคร” เป็น “กรุงเทพธนบุรีมหานคร” เพื่อให้ความสำคัญกับคนฝั่งธนบุรี</detail>
+		</item>
+		<item>
+			สนามหลวงเป็นพื้นที่ไฮด์ปาร์ก
+			<detail>เพื่อแสดงออกทางการเมือง,เปิดเวทีประชาธิปไตยที่ท้องสนามหลวงสัปดาห์ละ 1 ครั้ง</detail>
+		</item>
+		<item>
+			จัดระบบขนส่งมวลชน
+			<detail>ทั้งใต้ดิน บนดิน โดยการสร้างส่วนต่อขยายรถไฟฟ้าให้ครอบคลุมกรุงเทพฯ เพื่อลดปัญหาการจราจรลงภายใน 4 ปี</detail>
+		</item>
+		<item>
+			พัฒนากรุงเทพฯ ให้เป็นเมือง 5 ส.
+			<detail>คือ สะอาด สะดวก สบาย สวยงาม และสดชื่น</detail>
+		</item>
+		<item>
+			จัดระเบียบหาบเร่แผงลอย
+		</item>
+		<item>
+			แก้ปัญหาแหล่งเสื่อมโทรม
+			<detail>กำจัดมลพิษทั้งขยะ น้ำ และอากาศ,คูคลองสะอาด</detail>
+		</item>
+		<item>
+			บริหารเมือง ประสานงานได้ทุกหน่วย
+		</item>
+		<item>
+			ปราบทุจริต
+		</item>
+		<item>
+			ดูแลที่อยู่อาศัย
+			<detail>แหล่งเสื่อมโทรม (สลัม)</detail>
+		</item>
+		<item>
+			ดูแลคนยากจน
+			<detail>คนเร่ร่อน คนขอทานให้ได้รับความช่วยเหลือ</detail>
+		</item>
+	</campaign>
+	<reference>
+		<item>http://news.mthai.com/%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-%E0%B8%81%E0%B8%97%E0%B8%A1-2556/%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A7%E0%B9%88%E0%B8%B2-%E0%B8%81%E0%B8%97%E0%B8%A1-2556/214462.html</item>
+		<item>http://prachatai.com/journal/2013/02/45274</item>
+		<item>http://xn--12c8bnw1a0e3bxhh.com/%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-2556-%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%A5%E0%B8%82-2-%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B9%82%E0%B8%8A%E0%B8%84%E0%B8%8A%E0%B8%99%E0%B8%B0</item>
+		<item>http://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B1%E0%B8%A2_%E0%B9%82%E0%B8%8A%E0%B8%84%E0%B8%8A%E0%B8%99%E0%B8%B0</item>
+		<item>http://www.thairath.co.th/election/bkk2013/candidate/N2</item>
+	</reference>
+	<detail>
+		<image>img/02.jpg</image>
+	</detail>
+</rss>

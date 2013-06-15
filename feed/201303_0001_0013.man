@@ -1,0 +1,54 @@
+<rss>
+	<name>นาย วศิน ภิรมย์</name>
+	<campaign>
+		<item>
+			รถไฟฟ้า BTS, MRT ฟรีตอนเช้า
+			<detail>บริการฟรี ถึง 7.00 น.</detail>
+		</item>
+		<item>
+			แท็กซี่ปลอดภัยขึ้น
+			<detail>มีการกั้นระหว่างคนขับและผู้โดยสาร</detail>
+		</item>
+		<item>
+			การบริหารจัดการ กทม.
+			<detail>ด้วยวิทยาการคอมพิวเตอร์,บังคับใช้กฎระเบียบของ กทม. อย่างเคร่งครัด และรายงานผลสถิติทุกวันผ่านสื่อต่าง ๆ</detail>
+		</item>
+		<item>
+			คนกวาดขยะไฮเทค
+			<detail>ใช้เครื่องดูดใบไม้พกพา</detail>
+		</item>
+		<item>
+			สุขาสาธารณะ ชั้นเลิศ
+			<detail>ใช้ระบบกดปุ่มแผงควบคุมชำระล้างและเป่าแห้ง</detail>
+		</item>
+		<item>
+			คลองแสนแสบสวยน้ำใส
+			<detail>แยกท่อน้ำเสียขนานลำคลองและเป็นทางรถจักรยานทั้งสองฝั่ง</detail>
+		</item>
+		<item>
+			สร้างทางรถจักรยาน
+			<detail>ในสวนสาธารณะขนานทางเดิน มีรถจักรยานบริการฟรีรึ่งชั่วโมง และจัดให้บริการให้เช่าอีกจำนวนหนึ่ง</detail>
+		</item>
+		<item>
+			เงินอุดหนุนสวัสดิการเพิ่มให้พนักงานภาคสนาม
+			<detail>เพิ่มเงินวันละ 100 บาท เดือนละ 3000 บาท</detail>
+		</item>
+		<item>
+			พัฒนาพื้นที่ผู้ค้า หาบเร่ แผงลอย รถเข็น
+			<detail>ทำให้เป็นที่ทำมาหาเลี้ยงชีพอย่างมีความสุข และมีมนต์เสน่ห์ คู่กับกรุงเทพมหานคร</detail>
+		</item>
+		<item>
+			ลดปัญหาอาชญากรรมและการค้ามนุษย์
+			<detail>กรุงเทพฯ ไร้เด็กขอทาน และคนเร่ร่อน</detail>
+		</item>
+	</campaign>
+	<reference>
+		<item>http://www.lovebangkok.net</item>
+		<item>http://news.mthai.com/%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-%E0%B8%81%E0%B8%97%E0%B8%A1-2556/%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A7%E0%B9%88%E0%B8%B2-%E0%B8%81%E0%B8%97%E0%B8%A1-2556/214842.html</item>
+		<item>http://news.sanook.com/politic/bkkelection2013/candidateprofile/13</item>
+		<item>http://www.thaiswatch.com/politician/info/pid/POL0000003504</item>
+	</reference>
+	<detail>
+		<image>img/13.jpg</image>
+	</detail>
+</rss>

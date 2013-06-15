@@ -1,0 +1,28 @@
+<rss>
+	<name>นาย วิทยา จังกอบพัฒนา</name>
+	<campaign>
+		<item>
+			แก้ไขปัญหาการจราจร
+			<detail>ด้วยการยกเลิกสี่แยกไฟแดง จะมีแต่สี่แยกเลี้ยวซ้ายและให้รถไปยูเทิร์นเท่านั้น</detail>
+		</item>
+		<item>
+			รณรงค์ให้ประชาชนออกมาใช้สิทธิเลือกตั้ง
+			<detail>คนที่มาใช้สิทธิเลือกตั้งครั้งนี้จะมีโอกาสได้รับบริการจากกทม.เป็นลำดับแรก</detail>
+		</item>
+		<item>
+			ออกกฎหมาย ไม่ให้มีการทะเลาะกัน
+			<detail>ให้สภา กทม. ออกกฎหมายบ้านเรือนที่อยู่ใกล้กัน ไม่ให้มีการทะเลาะกัน ถ้าใครไม่ทำตามก็จะมีการเสียค่าปรับ</detail>
+		</item>
+	</campaign>
+	<reference>
+		<item>http://news.mthai.com/%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-%E0%B8%81%E0%B8%97%E0%B8%A1-2556/%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A7%E0%B9%88%E0%B8%B2-%E0%B8%81%E0%B8%97%E0%B8%A1-2556/215312.html</item>
+		<item>http://news.sanook.com/politic/bkkelection2013/candidateprofile/24</item>
+		<item>http://www.thaiswatch.com/politician/info/pid/POL0000002522</item>
+		<item>http://www.xn--12c8bnw1a0e3bxhh.com/node/85/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%B4-%E0%B8%A2%E0%B9%88%E0%B8%AD-%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2-%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2</item>
+		<item>http://www.thairath.co.th/election/bkk2013/candidate/N24</item>
+		<item>http://hilight.kapook.com/view/81192</item>
+	</reference>
+	<detail>
+		<image>img/24.jpg</image>
+	</detail>
+</rss>

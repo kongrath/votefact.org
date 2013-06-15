@@ -1,0 +1,32 @@
+<rss>
+	<name>นาย กฤษณ์ สุริยผล</name>
+	<campaign>
+		<item>
+			สะดวกสบาย
+			<detail>แก้ไขปัญหาการจราจร</detail>
+		</item>
+		<item>
+			สะอาดสะอ้าน
+			<detail>เน้นเก็บขยะและดูแลพื้นที่ให้สะอาด</detail>
+		</item>
+		<item>
+			สว่างไสว
+			<detail>ป้องกันอันตรายจากอาชญากรรม</detail>
+		</item>
+		<item>
+			โปร่งใส ปลอดภัย
+			<detail>ปลอดการทุจริตคอร์รัปชั่น</detail>
+		</item>
+	</campaign>
+	<reference>
+		<item>http://news.mthai.com/%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-%E0%B8%81%E0%B8%97%E0%B8%A1-2556/%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A7%E0%B9%88%E0%B8%B2-%E0%B8%81%E0%B8%97%E0%B8%A1-2556/215305.html</item>
+		<item>http://news.sanook.com/politic/bkkelection2013/candidateprofile/20</item>
+		<item>http://www.prbangkok.com/%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87/106-%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%9C%E0%B8%B9%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3/26849-n20</item>
+		<item>http://www.xn--12c8bnw1a0e3bxhh.com/node/83/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%B4-%E0%B8%A2%E0%B9%88%E0%B8%AD-%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%A4%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%9C%E0%B8%A5</item>
+		<item>http://www.innnews.co.th/shownews/show?newscode=432480</item>
+		<item>http://www.thairath.co.th/election/bkk2013/candidate/N20</item>
+	</reference>
+	<detail>
+		<image>img/20.jpg</image>
+	</detail>
+</rss>

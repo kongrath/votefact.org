@@ -1,0 +1,31 @@
+<rss>
+	<name>นาง นันท์นภัส โกไศยกานนท์</name>
+	<campaign>
+		<item>
+			ผู้ว่าฯดิลิเวอรี่
+			<detail>1 สัปดาห์ของการทำงานจะต้องมี 1 วันที่ผู้ว่าฯ จะมีโอกาสได้พบปะหารือกับประชาชนอย่างใกล้ชิด</detail>
+		</item>
+		<item>
+			แก้ไขปัญหาเรื่องการจราจร
+			<detail>ต้องมีการสร้างแรงจูงใจให้พี่น้องตำรวจจราจรลงไม้ลงมือช่วยอย่างเต็มที่</detail>
+		</item>
+		<item>
+			การให้บริการระบบขนส่งมวลชน
+			<detail>ตั้งเป้าที่การพัฒนาคุณภาพของรถประจำทางให้ดีกว่าที่เป็นอยู่ </detail>
+		</item>
+		<item>
+			เพิ่มเงินเบี้ยเลี้ยงให้ตำรวจจราจร
+		</item>
+	</campaign>
+	<reference>
+		<item>http://www.thairath.co.th/content/pol/323311</item>
+		<item>http://news.mthai.com/%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-%E0%B8%81%E0%B8%97%E0%B8%A1-2556/%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A7%E0%B9%88%E0%B8%B2-%E0%B8%81%E0%B8%97%E0%B8%A1-2556/214873.html</item>
+		<item>http://news.sanook.com/politic/bkkelection2013/candidateprofile/18/</item>
+		<item>http://www.prbangkok.com/%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87/106-%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%9C%E0%B8%B9%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3/26760-n18</item>
+		<item>http://www.thairath.co.th/content/pol/323311</item>
+		<item>http://www.thaiswatch.com/politician/info/pid/POL0000003506</item>
+	</reference>
+	<detail>
+		<image>img/18.jpg</image>
+	</detail>
+</rss>

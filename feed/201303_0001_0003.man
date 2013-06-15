@@ -1,0 +1,34 @@
+<rss>
+	<name>ร.อ. เมตตา เต็มชำนาญ</name>
+	<campaign>
+		<item>
+			ตั้งจังหวัดธนบุรี 
+		</item>
+		<item>
+			ขุดคลองเชื่อมอุโมงค์ เพื่อแก้ปัญหาจราจร 
+		</item>
+		<item>
+			บริหารโครงการขนส่งมวลชน
+		</item>
+		<item>
+			ให้นักเรียนทุกระดับชั้นได้เรียนฟรี
+		</item>
+		<item>
+			ให้สวัสดิการประกันสังคมกับทุกคน
+		</item>
+		<item>
+			ขจัดอิทธิพลนอกระบบ
+		</item>
+	</campaign>
+	<reference>
+		<item>http://news.mthai.com/%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-%E0%B8%81%E0%B8%97%E0%B8%A1-2556/%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A7%E0%B9%88%E0%B8%B2-%E0%B8%81%E0%B8%97%E0%B8%A1-2556/214482.html</item>
+		<item>http://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%A1%E0%B8%95%E0%B8%95%E0%B8%B2_%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B8%8A%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%8D</item>
+		<item>http://www.thairath.co.th/people/view/pol/8538</item>
+		<item>http://www.siamturakij.com/home/news/display_news.php?news_id=413365060</item>
+		<item>http://www.siamintelligence.com/interview-mettha/</item>
+		<item>http://xn--12c8bnw1a0e3bxhh.com/node/45/%E0%B8%99%E0%B9%82%E0%B8%A2%E0%B8%9A%E0%B8%B2%E0%B8%A2-%E0%B8%A3%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%95%E0%B8%95%E0%B8%B2-%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B8%8A%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%8D-%E0%B9%80%E0%B8%9A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B9%89%E0%B8%99</item>
+	</reference>
+	<detail>
+		<image>img/03.jpg</image>
+	</detail>
+</rss>

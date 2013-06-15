@@ -1,0 +1,46 @@
+<rss>
+	<name>นาย จำรัส อินทุมาร</name>
+	<campaign>
+		<item>
+			เปิดให้พ่อค้าแม่ค้ากู้เงินไม่เกิน 2 แสนบาท
+			<detail>โดยไม่ต้องมีผู้ค้ำประกันและดอกเบี้ย ส่วนนักธุรกิจ ให้รายละไม่เกิน 5 ล้านบาท</detail>
+		</item>
+		<item>
+			ช่วยปลดหนี้ในและนอกระบบให้
+			<detail>กทม.จะนำเงินมาออกให้ก่อนเพื่อตัดดอกเบี้ย แล้วให้ผู้เป็นหนี้นำเงินมาจ่ายกับ กทม.เพียงทางเดียว</detail>
+		</item>
+		<item>
+			เบี้ยยังชีพคนชรา คนละ 5,000 บาท/เดือน
+		</item>
+		<item>
+			การศึกษา จะเสนอให้เรียนฟรีจนถึงปริญญาตรี
+			<detail>จัดรถรับ-ส่ง นักเรียน นักศึกษา ฟรี อย่างเป็นระบบ</detail>
+		</item>
+		<item>
+			ทนายส่วนตัวให้ทุกคน ทุกครอบครัวฟรี
+			<detail>โดยทนายที่เข้าร่วมโครงการจะได้รับค่าตอบแทนคนละ 3 หมื่นบาทต่อเดือน</detail>
+		</item>
+		<item>
+			จัดอบรมปรัชญา “เศรษฐกิจพอเพียง”
+			<detail>เพื่อนำไปใช้ในการบริหารจัดการครอบครัวและทำธุรกิจ เมื่อผ่านการอบรม จะได้รับค่าตอบแทนเป็นเงินลงทุน คนละ 10,000 บาท</detail>
+		</item>
+		<item>
+			บ้านหลังแรก รถยนต์ รถจักรยานยนต์ คันแรก
+			<detail>ที่ใช้ประกอบอาชีพต้องไม่ถูกยึด</detail>
+		</item>
+		<item>
+			มีการรักษาฟรี จริงๆ อย่างมีคุณภาพ
+		</item>
+	</campaign>
+	<reference>
+		<item>http://www.thairath.co.th/content/pol/323333</item>
+		<item>http://www.prbangkok.com/%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87/106-%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%9C%E0%B8%B9%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3/26757-n15</item>
+		<item>http://news.mthai.com/%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-%E0%B8%81%E0%B8%97%E0%B8%A1-2556/%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A7%E0%B9%88%E0%B8%B2-%E0%B8%81%E0%B8%97%E0%B8%A1-2556/214853.html</item>
+		<item>http://news.sanook.com/politic/bkkelection2013/candidateprofile/15</item>
+		<item>http://www.thaiswatch.com/politician/info/pid/POL0000003309/info/history</item>
+		<item>http://hilight.kapook.com/view/81192</item>
+	</reference>
+	<detail>
+		<image>img/bangkok15.jpg</image>
+	</detail>
+</rss>

@@ -1,0 +1,38 @@
+<rss>
+	<name>นาย สมิทธ สมิทธินันท์</name>
+	<campaign>
+		<item>
+			คืนผิวจราจร โดยรื้อเกาะกลางถนน
+			<detail>ใน 2 เดือน  รถก็จะหายเข้าจุดหมายไปหมด</detail>
+		</item>
+		<item>
+			ลดสัญญาไฟแดงให้เท่ากับไฟเขียว
+			<detail>ไม่เกิน 1 นาที รถวิ่งก็มากกว่ารถหยุด เห็นผลใน 15 วัน</detail>
+		</item>
+		<item>
+			ลดรายจ่ายที่ไร้สาระของ กทม.
+			<detail>ใช้น้ำมันรถต้นไม้, ใช้คนล้างท่อระบายน้ำ, ขนขยะแบบโง่ๆ เป็นต้น ก็จะมีเงินซื้อทางด่วนให้ใช้ฟรี</detail>
+		</item>
+		<item>
+			แก้สะพานลอยที่สร้างผิดหลัก
+			<detail>ให้ถูกหลักหลายแห่ง</detail>
+		</item>
+		<item>
+			ยกเลิกรถวิ่งข้ามเกาะ
+			<detail>เพราะจะทำให้รถสวนมาไม่สะดวก</detail>
+		</item>
+		<item>
+			ให้สิ่งที่เงินซื้อไม่ได้
+			<detail>เวลาที่มีค่าที่สุดของชีวิต ปีละไม่ต่ำกว่า 1,000 ชั่วโมง คิดเป็นเงินกว่า 40,000 บาท ค่าน้ำมันอีกกว่า 30,000 บาท</detail>
+		</item>
+	</campaign>
+	<reference>
+		<item>http://www.สมิตรสมิทธินันท์.com/</item>
+		<item>http://www.nationchannel.com/main/news/politics/20130127/27835969/</item>
+		<item>http://hilight.kapook.com/view/81192</item>
+		<item>http://www.xn--12c8bnw1a0e3bxhh.com/node/162/%E0%B8%99%E0%B9%82%E0%B8%A2%E0%B8%9A%E0%B8%B2%E0%B8%A2-%E0%B8%AA%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%A3-%E0%B8%AA%E0%B8%A1%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%A5%E0%B8%82-5</item>
+	</reference>
+	<detail>
+		<image>img/05.jpg</image>
+	</detail>
+</rss>
